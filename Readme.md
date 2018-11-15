@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CellMerging/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CellMerging/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/CellMerging/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/CellMerging/MainWindow.xaml))
+<!-- default file list end -->
 # How to merge cells in the GridControl
 
 
