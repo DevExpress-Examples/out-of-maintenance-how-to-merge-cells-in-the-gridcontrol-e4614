@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/WpfApplication88/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication88/MainWindow.xaml.vb))**
+* [MainWindow.xaml.cs](./CS/WpfApplication88/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication88/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to merge cells in the GridControl
 
 
